@@ -1,0 +1,12 @@
+# Ignorer le fichier de configuration contenant les clés API
+config/params.yaml
+
+# Ignorer les fichiers de configuration de variables d'environnement
+.env
+
+# Ignorer les dossiers de cache de Python
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers de logs
+data/logs/
